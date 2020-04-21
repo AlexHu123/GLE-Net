@@ -1,2 +1,2 @@
 # GLE-Net
-Global-local Enhancement Network
+Global-local Enhancement Network, Code will be available. Under review.
